@@ -21,7 +21,7 @@ Click one of the the three icons to create a controller, or to switch between co
 
 Enter new text in the controller text field to change the MQTT topic.
 
-#Node Express Server runs on port 9876
+# Node Express Server runs on port 9876
 
 To start run
 
