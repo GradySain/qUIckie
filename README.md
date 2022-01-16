@@ -17,5 +17,7 @@ You can create a maximum of 9 controllers.
 
 Double click a number to create a controller placeholder.
 
-Click one of the the three icons to create a controller.
+Click one of the the three icons to create a controller, or to switch between controller types.
+
+Enter new text in the controller text field to change the MQTT topic.
 
